@@ -1,5 +1,7 @@
 # Peering into the Heart: A Comprehensive Exploration of Semantic Segmentation and Explainable AI on the MnMs-2 Cardiac MRI Dataset.
 
+The paper for this repository is in here: https://dl.acm.org/doi/10.2478/acss-2025-0002
+
 This repository consist of all he code for the research work presented in Peering into the Heart paper.
 
 # Below are the contents included
